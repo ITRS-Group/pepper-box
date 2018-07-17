@@ -1,0 +1,9 @@
+# General
+*.class
+*.log
+
+# Build output
+target/
+
+# IntelliJ IDEA
+.idea/
